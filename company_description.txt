@@ -1,0 +1,84 @@
+1. What's the company's name?
+Royal Luxury Cars
+
+
+
+2. How many locations do they have?
+12
+
+
+3. How many employees comprise the entire organization?
+120
+
+
+4. Provide the logic you used to estimate the total number of employees.
+
+I have 12 location, 10 employees on each location = 120 employees.
+
+
+
+
+5. What do they sell or how do they generate revenue?
+selling high performance vehicles.
+
+
+6. Give an estimate of their gross annual revenue?
+I
+an average cost of one of my car’s is about 300K.
+the most expensive car i sell is about 1,500,000.
+That would be the Ferrari LaFerrari.
+My company sell’s about 30 cars a week.
+calculation:
+30 a week
+120 a month
+1’440 a year
+So at 300K X 1,440 =432,000,000$ a year.
+
+
+
+7. Every company has some notion of a transaction, i.e. some set of operations that constitute the
+accomplishment of an objective or task in a software system. Examples of such transactions that drive a
+company's business operations are the sale of a retail item, an event ticket sale, a trouble ticket for technical
+support, a service of some kind like a trip by taxi or a lesson, a book loan, etc. This notion of transaction will
+permeate your design project, so clarify how it applies to your company. What are the information system
+transactions that drive your company's operations?
+
+
+the job depends on commission 
+
+
+
+8. How many of each type of transaction occurs per day?
+calculation:
+
+
+about 4 to 5 cars a week
+
+
+9. Provide the logic behind your estimate of the number of transactions?
+
+not a lot of people can afford 300K car
+
+
+10. What is the throughput of your system in bytes per second?
+
+
+
+
+11. Provide the logic behind your estimate of throughput?
+
+
+
+
+
+12. A client is someone who seeks your company's services. You are in business to serve your clients. Identify
+who the clients are of your company's business?
+
+
+well-off business man and actors/performers 
+
+13. A supplier is a person or organization that your company relies on to do business. Who are your company's
+suppliers? 
+
+
+My company supplier is the manufacturer.
