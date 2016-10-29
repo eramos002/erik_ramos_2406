@@ -1,0 +1,24 @@
+Scope Definition (FAST Phase 1)
+
+
+14. What information system is being proposed to be designed? 
+
+An e-commerce website with a phone APP. 
+On the site you can fully customize the vehicle you will purchase, and you could take a full virtual tour of the inside & out of the vehicle.
+
+
+15. Describe why the company needs it and why the company would be better off after it is in place? 
+
+In starters, the company could do business's 24 hours seven days a week. It can keep inventory of the vehicles that we have. My physical presence (as the owner) can be at any location. Meaning I could do business all over the world from one location. At the end of the day it can save me money or make me more. Reasons, I would not have to pay the commission fee to my worker: Because there was no seller.
+
+
+16. Provide an estimate of how long it will take to design, implement, and install it?
+
+The system will be up and running and fully operational in six months. With the right team.
+17. Provide an estimate of how much will the system design, implementation, and installation cost? 
+
+Well because of the urgency, plus the team that I am going to occupy, including the app it would be around $50,000.
+
+18. Provide an estimate of how many people will be needed to carry out everything?
+
+It would be a team of six. Two people writing the codes for the website. Two people taking the photos and uploading on the site. The two last people will be creating the app for the phones.
