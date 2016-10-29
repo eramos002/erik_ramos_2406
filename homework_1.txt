@@ -1,0 +1,21 @@
+Scenario 1: no flashdrive, using a public computer. Assuming a github repository already exists, explain the steps necessary to modify a file that already exists in the repository?
+	step-1. download github
+	step-2. clone your repo
+git clone https://github.com/squash_addict/ramy_ashour_2406.git
+
+
+Scenario 2: using a private computer. Assuming a github repository already exists but isn’t currently on the laptop in question, explain the steps necessary to remove a file from the project?
+	step-1. download github
+	step-2. clone your repo
+git clone https://github.com/squash_addict/ramy_ashour_2406.git
+	step-3. git rm —-cached file_name
+	step-4. git commit —-amend -CHEAD
+	step-5. git push
+
+Scenario 3: copy of repository on flashdrive, using a public computer. Assuming you already have a copy of your repository on a flashdrive, explain the steps necessary to add a new file to the project?	step-1. git init /mnt/usb/ramy_ashour_2406
+	step-2. git remote add usb /mnt/usb/ramy_ashour_2406
+	step-3. git push usb master
+
+Scenario 4: two or more private computers, multiple participants. Assuming a github repository exists on several private computers and is being modified by various participants over time, explain the steps necessary for you to modify a file in the project. Assume that you’ve just been notified by one of your team members that they’ve just updated the project?
+
+git pull or git pull https://github.com/squash_addict/ramy_ashour_2406
